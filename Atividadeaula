@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <style type="text/css">
+            * {
+                font-family: Arial;
+            }
+        </style>
+        <title>Aula</title>
+    </head>
+
+    <body>
+        <main>
+            <section style="background-color: rgb(0, 0, 0); text-align: center;">
+                <h1 style="color: rgb(255, 255, 255); font-size: 40px;">Minha Página</h1>
+            </section>
+            <ul>
+                <li style="font-size: 21px; background-color: firebrick;">Item 1</li>
+                <li style="font-size: 21px; background-color: firebrick;">Item 2</li>
+                <li style="font-size: 21px; background-color: firebrick;">Item 3</li>
+            </ul>
+            <table> 
+                <tr>
+                    <th>Cabeçalho 1</th>
+                    <th>Cabeçalho 2</th>
+                    <th>Cabeçalho 3</th>
+                </tr>
+                <tr>
+                    <td>Célula 1</td>
+                    <td>Célula 2</td>
+                    <td>Célula 3</td>
+                </tr>
+            </table>
+            Isso é um link para o Google: <ahref="http://www.google.com style="color: brown;"">Google</ahref>
+        </main>
+    </body>
+
+</html>
